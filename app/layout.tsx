@@ -31,7 +31,7 @@ export const metadata: Metadata = {
   },
   // 🌟 네이버 웹마스터툴 소유권 확인 태그 (새 사이트 등록 시 발급받은 키로 교체 가능)
   other: {
-    "naver-site-verification": "00e7695442b89d369943895964f00b130a83f820",
+    "naver-site-verification": "cd2ee57ba8b380175cfb42017d5e0daf12e4d437",
   },
   openGraph: {
     title: `${SITE_NAME} | 서울·경기·인천·대전·청주 힐링 테라피 플랫폼`,
